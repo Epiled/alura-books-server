@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "8cc9fd18-4472-4ed2-becb-982c0c6e10d2",
 		"name": "📚 Livros - API - 1",
-		"description": "**API** de **CRUD REST** para consumir e modicar o arquivo _**\"livros.json\"**_, que é usado como base de dados.\n\nFoi construida durante o curso [Node.js: continue seu projeto full stack criando uma API com Express](https://www.alura.com.br/curso-online-node-primeira-api-express).",
+		"description": "**API** de **CRUD REST** para consumir e modificar o arquivo _**\"livros.json\"**_, que é usado como base de dados.\n\nFoi construida durante o curso [Node.js: continue seu projeto full stack criando uma API com Express](https://www.alura.com.br/curso-online-node-primeira-api-express).",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "27288965"
 	},
